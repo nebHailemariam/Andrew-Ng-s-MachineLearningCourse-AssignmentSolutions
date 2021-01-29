@@ -11,5 +11,3 @@ $ sudo apt-get update && sudo apt-get install octave
 ## Contributing
 Pull requests are welcome.
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
